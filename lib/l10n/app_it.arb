@@ -1,0 +1,7 @@
+{
+    "helloWorld": "Ciao Mondo!",
+     "appName" : "Sistemi di storage in flutter",
+     "settings" : "Impostazioni",
+     "appcolor" : "Colore principale applicazione",
+     "fontsize" : "Seleziona la grandezza Font per l'applicazione"
+}
